@@ -123,51 +123,51 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 <div class="mySlides fade">
   <div class="numbertext">1</div>
-  <img src="http://ashish.gupta.github.io/files/abu_dh.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/abu_dh.jpg" style="width:100%">
   <div class="text">Abu Dhabi, UAE</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">2</div>
-  <img src="http://ashish.gupta.github.io/files/sphinx.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/sphinx.jpg" style="width:100%">
   <div class="text">Pyramids of Giza, Egypt</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">3</div>
-  <img src="http://ashish.gupta.github.io/files/Zagazig.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/Zagazig.jpg" style="width:100%">
   <div class="text">Zagazig, Egypt</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4</div>
-  <img src="http://ashish.gupta.github.io/files/Auroville.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/Auroville.jpg" style="width:100%">
   <div class="text">Auroville, India</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">5</div>
-  <img src="http://ashish.gupta.github.io/files/Rock_beach_aerial_view.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/Rock_beach_aerial_view.jpg" style="width:100%">
   <div class="text">Pondicherry, India</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">6</div>
-  <img src="http://ashish.gupta.github.io/files/mumbai.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/mumbai.jpg" style="width:100%">
   <div class="text">Mumbai, India</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">7</div>
-  <img src="http://ashish.gupta.github.io/files/gwalior.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/gwalior.jpg" style="width:100%">
   <div class="text">Gwalior, India</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">8</div>
-  <img src="http://ashish.gupta.github.io/files/mangalore.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/mangalore.jpg" style="width:100%">
   <div class="text">Mangalore, India</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">9</div>
-  <img src="http://ashish.gupta.github.io/files/delhi.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/delhi.jpg" style="width:100%">
   <div class="text">Delhi, India</div>
 </div>
 

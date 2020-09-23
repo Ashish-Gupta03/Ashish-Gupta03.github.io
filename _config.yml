@@ -11,9 +11,9 @@ title                    : "My Home Page"
 title_separator          : "-"
 name                     : &name "Ashish Guota"
 description              : &description "Data Scientist Walmart Global Tech"
-url                      : https://ashish.gupta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Ashish-Gupta03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ashish-Gupta03/ashish.gupta.github.io"
+repository               : "Ashish-Gupta0303/Ashish-Gupta03.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "AshishG03"
   foursquare       :
-  github           : "Ashish-Gupta03"
+  github           : "Ashish-Gupta0303"
   google_plus      :
   keybase          :
   instagram        :
