@@ -127,17 +127,17 @@ A zoo of ﻿cheatsheets﻿ most useful for applied machine learning.
 <div class="slideshow-container">
 <div class="mySlides fade">
   <div class="numbertext">1</div>
-  <img src="http://Ashish-Gupta03.github.io/files/Tromso_Norway.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/Tromso_Norway.jpeg" style="width:100%">
   <div class="text">Tromso, Norway</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">2</div>
-  <img src="http://Ashish-Gupta03.github.io/files/Antwerp_Belgium.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/Antwerp_Belgium.jpeg" style="width:100%">
   <div class="text">Antwerp, Belgium</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">3</div>
-  <img src="http://Ashish-Gupta03.github.io/files/Louvre_Paris.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/Louvre_Paris.jpeg" style="width:100%">
   <div class="text">Louvre, Paris</div>
 </div>
 <div class="mySlides fade">
@@ -161,7 +161,7 @@ A zoo of ﻿cheatsheets﻿ most useful for applied machine learning.
 
 <div class="mySlides fade">
   <div class="numbertext">7</div>
-  <img src="http://Ashish-Gupta03.github.io/files/Coorg_India.jpg" style="width:100%">
+  <img src="http://Ashish-Gupta03.github.io/files/Coorg_India.jpeg" style="width:100%">
   <div class="text">Coorg, India</div>
 </div>
 
