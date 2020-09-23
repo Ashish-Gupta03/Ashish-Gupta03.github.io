@@ -111,10 +111,14 @@ img {vertical-align: middle;}
 
 <p><font size="5"><strong>Misc</strong></font></p>
 
+A blog that I like.
+An algorithms book that I like.
+A website that I frequent.
+A cartoon strip that I like.
+​A non-technical book that I really liked,
+A zoo of ﻿cheatsheets﻿ most useful for applied machine learning.
 
-<p align="justify"> When I'm away from all my electronic devices I need few things to have a good time. Apart from my friends, good view where I can put my photography skills to use, LEDs and <a href="https://en.wikipedia.org/wiki/pizza">Pizza</a> top that list. </p>
-
-<p align="justify"> The first 18 years of my life were spent in a small town called <a href="https://en.wikipedia.org/wiki/Faridabad">Faridabad</a>. Where ever I go, this town always travels with me and always enriches me. </p>
+<p align="justify"> When I'm away from all my electronic devices I need few things to have a good time. I enjoy travelling and using my minimalistic photography skills to capture good scenic places. </p>
 
 
   
@@ -123,52 +127,48 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 <div class="mySlides fade">
   <div class="numbertext">1</div>
-  <img src="http://Ashish-Gupta03.github.io/files/abu_dh.jpg" style="width:100%">
-  <div class="text">Abu Dhabi, UAE</div>
+  <img src="http://Ashish-Gupta03.github.io/files/Tromso_Norway.jpg" style="width:100%">
+  <div class="text">Tromso, Norway</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">2</div>
-  <img src="http://Ashish-Gupta03.github.io/files/sphinx.jpg" style="width:100%">
-  <div class="text">Pyramids of Giza, Egypt</div>
+  <img src="http://Ashish-Gupta03.github.io/files/Antwerp_Belgium.jpg" style="width:100%">
+  <div class="text">Antwerp, Belgium</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">3</div>
-  <img src="http://Ashish-Gupta03.github.io/files/Zagazig.jpg" style="width:100%">
-  <div class="text">Zagazig, Egypt</div>
+  <img src="http://Ashish-Gupta03.github.io/files/Louvre_Paris.jpg" style="width:100%">
+  <div class="text">Louvre, Paris</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">4</div>
+  <img src="http://Ashish-Gupta03.github.io/files/Vagamon_Kerala.png" style="width:100%">
+  <div class="text">Vagamon, India</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4</div>
+  <div class="numbertext">5</div>
   <img src="http://Ashish-Gupta03.github.io/files/Auroville.jpg" style="width:100%">
   <div class="text">Auroville, India</div>
 </div>
 
 
 <div class="mySlides fade">
-  <div class="numbertext">5</div>
+  <div class="numbertext">6</div>
   <img src="http://Ashish-Gupta03.github.io/files/Rock_beach_aerial_view.jpg" style="width:100%">
   <div class="text">Pondicherry, India</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6</div>
-  <img src="http://Ashish-Gupta03.github.io/files/mumbai.jpg" style="width:100%">
-  <div class="text">Mumbai, India</div>
+  <div class="numbertext">7</div>
+  <img src="http://Ashish-Gupta03.github.io/files/Coorg_India.jpg" style="width:100%">
+  <div class="text">Coorg, India</div>
 </div>
+
 <div class="mySlides fade">
   <div class="numbertext">7</div>
-  <img src="http://Ashish-Gupta03.github.io/files/gwalior.jpg" style="width:100%">
-  <div class="text">Gwalior, India</div>
-</div>
-<div class="mySlides fade">
-  <div class="numbertext">8</div>
-  <img src="http://Ashish-Gupta03.github.io/files/mangalore.jpg" style="width:100%">
-  <div class="text">Mangalore, India</div>
-</div>
-<div class="mySlides fade">
-  <div class="numbertext">9</div>
-  <img src="http://Ashish-Gupta03.github.io/files/delhi.jpg" style="width:100%">
-  <div class="text">Delhi, India</div>
+  <img src="http://Ashish-Gupta03.github.io/files/Mumbai_India.jpg" style="width:100%">
+  <div class="text">Mumbai, India</div>
 </div>
 
 
@@ -185,9 +185,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(4)"></span> 
   <span class="dot" onclick="currentSlide(5)"></span> 
    <span class="dot" onclick="currentSlide(6)"></span> 
-  <span class="dot" onclick="currentSlide(7)"></span> 
-  <span class="dot" onclick="currentSlide(8)"></span> 
-
+  <span class="dot" onclick="currentSlide(7)"></span>
 
 </div>
 

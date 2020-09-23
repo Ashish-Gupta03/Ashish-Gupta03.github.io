@@ -33,8 +33,23 @@
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://Ashish-Gupta03.github.io/ag-publication/Learning-with-Limited-Labels-via-Momentum-Damped-Differentially-Weighted-Training</loc>
+  <lastmod>2020-02-24T22:52:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+  <url>
   <loc>https://Ashish-Gupta03.github.io/ag-publication/Joint-Attention-Neural-Model-for-Demand-Prediction-in-Online-Marketplaces</loc>
-  <lastmod>2020-01-25T22:52:23+00:00</lastmod>
+  <lastmod>2020-02-06T22:52:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+  <url>
+  <loc>https://Ashish-Gupta03.github.io/ag-publication/Sequence-aware-Reinforcement-Learning-over-Knowledge-Graphs</loc>
+  <lastmod>2019-09-19T22:52:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+  <url>
+  <loc>https://Ashish-Gupta03.github.io/ag-publication/Neural-Attention-Reader-for-Video-Comprehension</loc>
+  <lastmod>2018-07-18T22:52:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -42,11 +57,11 @@
   <lastmod>2020-01-25T22:52:23+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://Ashish-Gupta03.github.io/publication/GIS_paper</loc>
-  <lastmod>2020-01-25T22:52:23+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+<!--<url>-->
+  <!--<loc>https://Ashish-Gupta03.github.io/publication/GIS_paper</loc>-->
+  <!--<lastmod>2020-01-25T22:52:23+00:00</lastmod>-->
+  <!--<priority>0.64</priority>-->
+<!--</url>-->
 <url>
   <loc>https://Ashish-Gupta03.github.io/portfolio/portfolio-1/</loc>
   <lastmod>2020-01-25T22:52:23+00:00</lastmod>

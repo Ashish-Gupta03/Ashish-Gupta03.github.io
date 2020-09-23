@@ -2,8 +2,8 @@
 main:
   - title: "Publications"
     url: /ashish-gupta-publications/
-  - title: "Projects"
-    url: /ashish-gupta-projects/
+#  - title: "Projects"
+#    url: /ashish-gupta-projects/
     
   - title: "CV & Contact"
     url: /ashish-gupta-cv/

@@ -84,11 +84,11 @@ author:
   avatar           : "ashish_profile.png"
   bio              : "Data Scientist at Walmart Global Tech"
   location         : "Bangalore, India"
-  employer         :
+  employer         : "Walmart Global Tech"
   pubmed           : 
   googlescholar    : 
   email            :  "ashug219@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Pranav_Kedia2"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,6 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "ashishgupta031"
+  medium           : "ashishgupta031"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
