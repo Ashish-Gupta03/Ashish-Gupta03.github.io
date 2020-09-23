@@ -1,13 +1,41 @@
 ---
-title: "Crime Mapping and Analysis using GIS"
+title: "Sequence-aware Reinforcement Learning over Knowledge Graphs"
 collection: publications
-permalink: /publication/GIS_paper
+permalink: /ag-publication/Sequence-aware-Reinforcement-Learning-over-Knowledge-Graphs
 excerpt: ''
-venue: 'preprint on ResearchGate'
-date: 2016-07-25
+date: 2019-09-19
+venue: 'REVEAL: A RecSys 2019 Workshop'
+citation: 'A. Gupta, R. Mehrotra, "Sequence-aware Reinforcement Learning over Knowledge Graphs," REVEAL: A RecSys 2019 Workshop'
 ---
-**Abstract:** This paper looks at the possibility of utilizing GIS for crime mapping and its analysis for effective law enforcement and crime management. This option was explored by showing the procedural method of creating a) A hierarchal system of location data collection which previously didn’t exist b) Creating database with all spatial and non-spatial data c) Creating heat map based on temporal and spatial analysis such as query and KDE using QGIS software and GPS. The analysis shows area of crime hotspots, areas deficient in security outfit, areas requiring constant police patrol, time and days when citizens face the maximum crime and of what type. The study proves that GIS gives us a better synoptic perspective to crime mapping, study, analysis, decision making, better presentation to a layman and thus prevents crime. It however suggests that migrating from traditional method of crimemanagement to GIS demands building the required infrastructure and recruiting trained personnel and facilities. 
 
-[Download paper here](https://www.researchgate.net/publication/309125859_Crime_Mapping_and_Analysis_using_GIS)
+**Abstract:** We consider the task of generating explainable recommendations
 
-Recommended citation: P. Kedia. (2016). "Crime Mapping and Analysis using GIS" <i>preprint</i>.
+with knowledge graphs in a large scale industrial e-commerce plat-
+form. We propose a Reinforcement Learning (RL) based approach
+
+for recommendation, which casts item recommendation problem
+
+as a deterministic Markov Decision Process (MDP) over the knowl-
+edge graph, wherein an agent starts from a user, and learns to
+
+navigate to the potential items of interest. We hypothesize that the
+path history can serve as a genuine explanation for why the item
+is recommended to the user. Different from past work on RL on
+knowledge graphs [9], we leverage sequential neural modeling of
+user’s historic item history, and hierarchical softmax approach for
+sampling paths in the knowledge graphs and propose Sequence
+Aware Reinforced Learning over Knowledge Graphs (SeqReLG).
+
+Experiments on large scale real world dataset highlights the ben-
+efits offered by sequential modeling of user’s history and action
+
+sampling techniques. We observe a significant gain in performance
+
+when compared to state-of-the-art RL based approach. We addi-
+tionally discuss and address implementation details for large scale
+
+deployment of the proposed RL based solution.
+
+[Download paper here](https://drive.google.com/file/d/1MiM4Z6_tqL47pGn2CAzqcMzQCdogpMnX/view)
+
+
