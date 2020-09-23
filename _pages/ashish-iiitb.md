@@ -111,12 +111,6 @@ img {vertical-align: middle;}
 
 <p><font size="5"><strong>Misc</strong></font></p>
 
-A blog that I like.
-An algorithms book that I like.
-A website that I frequent.
-A cartoon strip that I like.
-​A non-technical book that I really liked,
-A zoo of ﻿cheatsheets﻿ most useful for applied machine learning.
 
 <p align="justify"> When I'm away from all my electronic devices I need few things to have a good time. I enjoy travelling and using my minimalistic photography skills to capture good scenic places. </p>
 
