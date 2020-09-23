@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Pranav Kedia Talks and presentations"
-permalink: /pranav-kedia-talks/
+title: "Ashish Gupta Talks and presentations"
+permalink: /ashish-gupta-talks/
 author_profile: true
 ---
 

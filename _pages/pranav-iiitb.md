@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: " Pranav Kedia"
-permalink: /pranav-kedia-misc/
+title: " Ashish Gupta"
+permalink: /ashish-gupta-misc/
 author_profile: true
 ---
 <head> 

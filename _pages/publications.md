@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Pranav Kedia Publications"
-permalink: /pranav-kedia-publications/
+title: "Ashish Gupta Publications"
+permalink: /ashish-gupta-publications/
 author_profile: true
 ---
 
