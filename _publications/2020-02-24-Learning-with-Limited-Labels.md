@@ -18,7 +18,7 @@ citation: '@inproceedings{mehrotra2020learning,
 
 We present data mixing strategies based on submodular subset selection, and additionally, propose adaptive optimization techniques to enable the model to differentiate between a strong label data point and a weak supervision data point. Finally, we present two different case-studies (i) user satisfaction prediction with music recommendation and (ii) question-based video comprehension and demonstrate that the proposed adaptive learning strategies are better at learning from limited labels. Our techniques and findings provide practitioners with ways of leveraging external labeled data.
 
-[Download paper here](https://dl.acm.org/doi/pdf/10.1145/3394486.3403394)
+[Download paper here](http://Ashish-Gupta03.github.io/files/Learning_with_Limited_Labels.pdf)
 
 
 

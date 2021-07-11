@@ -17,6 +17,6 @@ citation: '@inproceedings{gupta2020joint,
 
 **Abstract:** As an increasing number of consumers rely on online marketplaces to purchase goods from, demand prediction becomes an important problem for suppliers to inform their pricing and inventory management decisions. Business volatility and the complexity of factors influence demand, which  makes it a harder quantity to predict. In this paper, we consider the case of an online classified marketplace and propose a joint multi-modal neural model for demand  prediction. The proposed neural model incorporates a number of factors including product description information (title, description, images), contextual information (geography, similar products) and historic interest to predict demand. Large scale experiments on real-world data demonstrate superior performance over established baselines. Our experiments highlight the importance of considering, quantifying and leveraging the textual content of products and image quality for enhanced demand prediction. Finally, we quantify the impact of the different factors in predicting demand.
 
-[Download paper here](https://septentrio.uit.no/index.php/nldl/article/view/5170/5085)
+[Download paper here](http://Ashish-Gupta03.github.io/files/Joint_Attention_Neural_Model_for_Demand_Prediction_in_Online_Marketplaces.pdf)
 
 
