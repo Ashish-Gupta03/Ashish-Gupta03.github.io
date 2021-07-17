@@ -76,14 +76,14 @@ for row, item in publications.iterrows():
     
     md += """\npermalink: /publication/""" + html_filename
     
-    if len(str(item.excerpt)) > 5:
+    if len(str(item.excerpt)) > 6:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
     md += "\ndate: " + str(item.pub_date) 
     
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
-    if len(str(item.paper_url)) > 5:
+    if len(str(item.paper_url)) > 6:
         md += "\npaperurl: '" + item.paper_url + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
@@ -92,7 +92,7 @@ for row, item in publications.iterrows():
     
     ## Markdown description for individual page
     
-    if len(str(item.paper_url)) > 5:
+    if len(str(item.paper_url)) > 6:
         md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
     if len(str(item.excerpt)) > 5:
