@@ -1,3 +1,12 @@
+---
+title: "Defensive Low Authority Host Predictor"
+collection: publications
+permalink: /ag-publication/Defensive-Low-Authority-Host-Predictor
+excerpt: ''
+date: 2022-06-14
+venue: 'Microsoft Journal of Applied Research 2022'
+---
+
 **Abstract:** Responsible AI is becoming critical since AI is used in everyday lives. Search, recommender, and ranking
 techniques widely used in multiple industries are using ML models heavily. Not only do we need to
 improve the accuracy of the models but also need to guarantee fairness, resiliency to noise, explainability,
