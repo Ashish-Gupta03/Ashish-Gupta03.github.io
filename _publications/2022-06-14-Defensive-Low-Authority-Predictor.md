@@ -21,4 +21,4 @@ impact on the relevance of results. Finally, we show state-of-the-art results on
 billions of hosts. We show that this technique around responsible AI is highly robust and easy to deploy. We
 believe to have scratched the niche area of responsible AI and suggest further research challenges around this work.
 
-[Download paper here](http://Ashish-Gupta03.github.io/files/Defensive_Low_Authority_Predictor.pdf)
+[Download paper here](http://Ashish-Gupta03.github.io/files/Defensive_Low_Authority_Host_Predictor.pdf)
