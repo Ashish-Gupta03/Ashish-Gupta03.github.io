@@ -4,7 +4,7 @@ collection: publications
 permalink: /ag-publication/Hyperparameter-Optimization
 excerpt: ''
 date: 2020-10-20
-venue: 'IEEE BigData 2020'
+venue: 'IEEE BigData'
 citation: '@inproceedings{krishna2020hyper,
   title={Hyper-parameter optimization with REINFORCE and Masked Attention Auto-regressive Density Estimators},
   author={Krishna, Chepuri Shri and Gupta, Ashish and Narayan, Swarnim and Rai, Himanshu and Manchanda, Diksha},

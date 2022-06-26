@@ -4,7 +4,7 @@ collection: publications
 permalink: /ag-publication/Learning-with-Limited-Labels-via-Momentum-Damped-Differentially-Weighted-Training
 excerpt: ''
 date: 2020-02-24
-venue: 'KDD 2020'
+venue: 'KDD'
 citation: '@inproceedings{mehrotra2020learning,
   title={Learning with Limited Labels via Momentum Damped \& Differentially Weighted Optimization},
   author={Mehrotra, Rishabh and Gupta, Ashish},

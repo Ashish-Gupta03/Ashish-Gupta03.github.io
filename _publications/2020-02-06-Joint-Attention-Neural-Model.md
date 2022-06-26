@@ -4,7 +4,7 @@ collection: publications
 permalink: /ag-publication/Joint-Attention-Neural-Model-for-Demand-Prediction-in-Online-Marketplaces
 excerpt: ''
 date: 2020-02-06
-venue: 'NLDL 2020'
+venue: 'NLDL'
 citation: '@inproceedings{gupta2020joint,
   title={Joint Attention Neural Model for Demand Prediction in Online Marketplaces},
   author={Gupta, Ashish and Mehrotra, Rishabh},
