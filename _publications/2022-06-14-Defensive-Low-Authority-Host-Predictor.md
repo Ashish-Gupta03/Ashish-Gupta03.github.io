@@ -4,7 +4,7 @@ collection: publications
 permalink: /ag-publication/Defensive-Low-Authority-Host-Predictor
 excerpt: ''
 date: 2022-06-14
-venue: 'Microsoft Journal of Applied Research 2022'
+venue: 'Microsoft Journal of Applied Research'
 ---
 
 **Abstract:** Responsible AI is becoming critical since AI is used in everyday lives. Search, recommender, and ranking
