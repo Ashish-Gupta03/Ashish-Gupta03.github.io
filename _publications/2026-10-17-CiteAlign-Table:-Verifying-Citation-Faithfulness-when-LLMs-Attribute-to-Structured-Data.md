@@ -1,13 +1,14 @@
+---
 title: "CiteAlign-Table: Verifying Citation Faithfulness when LLMs Attribute to Structured Data"
 collection: publications
 permalink: /ag-publication/CiteAlign-Table
 excerpt: ''
-date: 2025-11-07
-venue: '35th ACM International Conference on Information and Knowledge Management (CIKM '26)'
+date: 2026-11-07
+venue: '35th ACM International Conference on Information and Knowledge Management (CIKM ''26)'
 citation: '@inproceedings{gupta2026citealign,
   author    = {Gupta, Ashish and Naik M C, Manjunath},
   title     = {CiteAlign-Table: Verifying Citation Faithfulness when LLMs Attribute to Structured Data},
-  booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
+  booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM ''26)},
   year      = {2026},
   location  = {Rome, Italy},
   publisher = {ACM}
